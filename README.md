@@ -29,7 +29,7 @@
 The operation began in 2019 and underwent name changes as the brand evolved. Earlier names are listed for continuity:
 
 1. **BoostConservative** (2019–2020) — early storefront/identity  
-2. **DutyEagle** (2020–2022) — intermediate operating name *(LLC likely registered under this or the prior name)*  
+2. **DutyEagle** (2020–2022) — intermediate operating name *(LLC registered under this)*  
 3. **The Flag Project** (2022–2023) — final public-facing brand for the majority of sales
 
 **Domains previously associated:**
