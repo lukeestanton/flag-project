@@ -20,7 +20,7 @@
 - **Product / ad landing page (Wayback, Nov 15, 2023):** *3' x 5' High Quality American Flag* — title, images, price, add-to-cart  
   https://web.archive.org/web/20231115083845/https://theflagproject.org/products/3-x-5-high-quality-american-flag
 
-- **Marketing channel:** Primary Instagram used for paid/organic distribution is still live and **available upon request**.
+- **Marketing channel:** Primary Instagram (140k followers) used for paid/organic distribution is still live and **available upon request**.
 
 ---
 
