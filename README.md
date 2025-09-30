@@ -5,7 +5,7 @@
 - **Brand:** The Flag Project  
 - **Role:** Founder (solo → 4-person team)  
 - **Location:** Alpharetta, GA (remote-first ops)  
-- **Period:** Oct 2019 – Sep 2023 *(site remained live with payments disabled into early 2024)*  
+- **Period:** Oct 2019 – Sep 2023 *(site remained live with payments disabled into mid 2024)*  
 - **Storefront Platform:** Shopify  
 
 ---
