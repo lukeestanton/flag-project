@@ -48,8 +48,8 @@ The operation began in 2019 and underwent name changes as the brand evolved. Ear
 
 - **Revenue:** ~$60,000 lifetime revenue  
 - **Volume:** 10,000+ units shipped; peak growth ~3× YoY  
-- **Marketing:** scaled social reach to **200k+ followers**; built **12k** email list with ~**7%** campaign conversion; managed **$15k+** FB/IG spend with **ROAS > 2.5** via cohort analysis & creative iteration  
-- **Operations:** fulfilled **10,000+ orders** with ~**98% on-time** rate at peak; scaled team from solo to **4** (seasonal)
+- **Marketing:** scaled social reach to **200k+ followers**; built **12k** email list with ~**7%** campaign conversion; managed **$15k+** FB/IG spend with **ROAS > 2.5**  
+- **Operations:** fulfilled **10,000+ orders** with ~**98% on-time** rate at peak
 
 ---
 
