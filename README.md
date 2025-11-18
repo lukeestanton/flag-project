@@ -3,14 +3,13 @@
 **Purpose:** This README provides verifiable, third-party evidence that **The Flag Project** operated as a real business.
 
 - **Brand:** The Flag Project  
-- **Role:** Founder (solo → 4-person team)  
-- **Location:** Alpharetta, GA (remote-first ops)  
+- **Role:** Founder 
 - **Period:** Oct 2019 – Sep 2023 *(site remained live with payments disabled into mid 2024)*  
 - **Storefront Platform:** Shopify  
 
 ---
 
-## Public Evidence (Independent Archives)
+## Independent Archives
 
 > *Note:* Archived pages **lack** original CSS/JS; the **timestamped URLs and page content** remain authentic.
 
